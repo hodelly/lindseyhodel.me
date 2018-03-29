@@ -1,0 +1,43 @@
+body {
+  font-size: 60px;
+  background-color: lightblue;
+  text-align: center;
+  color: white;
+}
+img {
+  float: center;
+  padding-top: 10px;
+}
+h1 {
+  font-size: 30px;
+  color: red;
+  text-align: center;
+  padding-top: 50px;
+}
+p1 {
+  font-size: 20px;
+  color:red;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  color: darkblue;
+  padding-top: 50px;
+}
+p2 {
+  font-size: 20px;
+  color: darkblue;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+  color: green;
+  padding-top: 50px;
+
+}
+p3 {
+  font-size: 20px;
+  color: green;
+}
